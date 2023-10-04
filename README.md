@@ -10,9 +10,6 @@ Ahmed Ashraf Ahmed:             ahmeddashraff02@gmail.com
 
 Hamdi Hossam Hamdi:             Hamdihossam461@gmail.com
 
-# Link of Cvs 
-https://drive.google.com/drive/folders/1tAeHyfN1iHTIVHF9L8kU_HZaukp83k0T
-
 
 
 
